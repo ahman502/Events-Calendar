@@ -47,3 +47,39 @@ for(int i = 0; i < calendar[0].length; i++) {
 
   }
 }
+
+/*  OUTPUT (Based on the .png file within the repository)
+
+Week: 1, Day: 1, Event: volunteer
+Week: 1, Day: 2, Event: delivery
+Week: 1, Day: 5, Event: doctor
+Week: 1, Day: 7, Event: soccer
+Total number of events for week 1: 4
+
+Week: 2, Day: 2, Event: exam 1
+Week: 2, Day: 4, Event: mechanic
+Week: 2, Day: 7, Event: soccer
+Total number of events for week 2: 3
+Week: 3, Day: 1, Event: volunteer
+Week: 3, Day: 2, Event: off work
+Week: 3, Day: 4, Event: birthday
+Week: 3, Day: 6, Event: concert
+Total number of events for week 3: 4
+
+Week: 4, Day: 2, Event: exam 2
+Week: 4, Day: 5, Event: doctor
+Week: 4, Day: 7, Event: soccer
+Total number of events for week 4: 3
+
+Week: 5, Day: 1, Event: visit family
+Total number of events for week 5: 1
+
+Number of events on Sundays: 3
+Number of events on Mondays: 4
+Number of events on Tuesdays: 0
+Number of events on Wednesdays: 2
+Number of events on Thursdays: 2
+Number of events on Fridays: 1
+Number of events on Saturdays: 3
+
+*/
