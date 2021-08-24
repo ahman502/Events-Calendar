@@ -60,6 +60,7 @@ Week: 2, Day: 2, Event: exam 1
 Week: 2, Day: 4, Event: mechanic
 Week: 2, Day: 7, Event: soccer
 Total number of events for week 2: 3
+
 Week: 3, Day: 1, Event: volunteer
 Week: 3, Day: 2, Event: off work
 Week: 3, Day: 4, Event: birthday
